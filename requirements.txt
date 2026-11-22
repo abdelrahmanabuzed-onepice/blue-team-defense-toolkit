@@ -1,0 +1,3 @@
+# Core blue team defense dependencies
+# Standard library first architecture; zero mandatory external runtime dependencies.
+pytest>=7.0.0
